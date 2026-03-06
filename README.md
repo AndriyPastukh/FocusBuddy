@@ -69,7 +69,3 @@ python ui_python/app.py
 ## License
 
 MIT License - feel free to use and modify for your own projects.
-
----
-
-**Would you like me to help you create the `requirements.txt` file so others can install the dependencies with one command?**
